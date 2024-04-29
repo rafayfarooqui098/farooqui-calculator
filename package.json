@@ -4,6 +4,7 @@
   "description": "developng calculator with typescript,node and inquirer,",
   "main": "calculator.js",
   "type": "module",
+  "publishConfig": {"access": "public"},
   "bin":  "calculator.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
