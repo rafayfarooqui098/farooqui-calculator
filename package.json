@@ -1,6 +1,6 @@
 {
   "name": "farooqui786-simple-calculator",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "developng calculator with typescript,node and inquirer,",
   "main": "calculator.js",
   "type": "module",
